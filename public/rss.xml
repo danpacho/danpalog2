@@ -1,23 +1,23 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>your site name</title>
-    <link>your DEPLOY URL</link>
-    <description>your site subtitle</description>
+    <title>단팥줘 끄적끄적</title>
+    <link>https://danpacholog.verce.app</link>
+    <description>프로필을 보시면 쑥쓰럽지만 오히려 좋아</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 17 Sep 2022 00:00:00 GMT</lastBuildDate>
-    <webMaster>your_email (myname)</webMaster>
-    <managingEditor>your_email (myname)</managingEditor>
-    <atom:link href="your DEPLOY URL/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 GMT</lastBuildDate>
+    <webMaster>danpa725@cau.ac.kr (단팥줘 노트)</webMaster>
+    <managingEditor>danpa725@cau.ac.kr (단팥줘 노트)</managingEditor>
+    <atom:link href="https://danpacholog.verce.app/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <guid>your DEPLOY URL/Demo/1/Hi!-I'm-demo</guid>
-      <title>Hi! I'm demo</title>
-      <link>your DEPLOY URL/Demo/1/Hi!-I'm-demo</link>
-      <description>I'm generated with built in cli posting tool</description>
-      <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
-      <author>your_email (danpacho)</author>
-      <category>demo</category><category>cli</category>
+      <guid>https://danpacholog.verce.app/잡아스크립트/1/클로져-파먹어-보기1</guid>
+      <title>클로져 파먹어⚔️ 보기 - 1</title>
+      <link>https://danpacholog.verce.app/잡아스크립트/1/클로져-파먹어-보기1</link>
+      <description>자바스크립트 영원의 숙원사업 클로져👻를 채굴해봅니다</description>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
+      <author>danpa725@cau.ac.kr (단팥줘)</author>
+      <category>closure</category><category>js</category>
     </item>
     
   </channel>
