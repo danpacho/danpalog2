@@ -47,7 +47,7 @@ function Layout({
                 rectStrokeLight="stroke-cyan-200"
                 outerRectStrokeLight="stroke-cyan-600"
                 rectStrokeDark="dark:stroke-neutral-700"
-                outerRectStrokeDark="dark:stroke-neutral-700"
+                outerRectStrokeDark="dark:stroke-neutral-600"
                 outerRectStrokeWidth={1.25}
                 rectStrokeWidth={0.75}
                 rectWidth={10000}
