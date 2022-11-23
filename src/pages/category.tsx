@@ -28,7 +28,7 @@ function AllCategoryPage({ allCategoryInfo }: AllCategoryPageProps) {
         <>
             <Banner
                 title="Category"
-                description="all category here!"
+                description="카테고리 맛집 오픈"
                 hex={config.themeColor}
                 containerStyleClass="mb-4"
             />

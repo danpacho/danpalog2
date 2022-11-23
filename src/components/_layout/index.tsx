@@ -43,7 +43,16 @@ function Layout({
             </div>
             {pageType !== "Post" && <MainNav />}
 
-            <NoteBackground rectWidth={150} rectHeight={150} />
+            <NoteBackground
+                rectStrokeLight="stroke-cyan-300"
+                outerRectStrokeLight="stroke-cyan-900"
+                rectStrokeDark="dark:stroke-cyan-900"
+                outerRectStrokeDark="dark:stroke-cyan-200"
+                outerRectStrokeWidth={1}
+                rectStrokeWidth={0.75}
+                rectWidth={10000}
+                rectHeight={75}
+            />
         </main>
     )
 }

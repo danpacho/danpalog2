@@ -18,11 +18,11 @@ function CategoryLinkLayer({
             ))}
             {displayCategoryPageLinkBtn && (
                 <CategoryLink
-                    category="Expore More"
+                    category="더 많은 카테고리"
                     categoryUrl="/category"
-                    color="#ded235"
-                    description="click to explore more category"
-                    emoji="🍻"
+                    color="#de3587"
+                    description="이곳을 누르면 다양한 카테고리를 한눈에 볼 수 있어요."
+                    emoji="📮"
                 />
             )}
         </Grid>
