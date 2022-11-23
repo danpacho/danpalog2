@@ -8,25 +8,22 @@ const contacts: Readonly<
         email: string // ✅ email for RSS
     }
 > = {
-    email: getAuthorContactHref("email", "your_email"),
-    github: getAuthorContactHref("github", "github_id"),
-    youtube: getAuthorContactHref("youtube", "youtube_id"),
-    facebook: getAuthorContactHref("facebook", "facebook_id"),
-    linkedin: getAuthorContactHref("linkedin", "linkedin_id"),
-    twitter: getAuthorContactHref("twitter", "twitter_id"),
+    email: getAuthorContactHref("email", "danpa725@cau.ac.kr"),
+    github: getAuthorContactHref("github", "danpacho"),
 }
 const author = {
-    name: "myname",
-    introduce: "Introduce yourself",
+    name: "단팥줘 노트",
+    introduce:
+        "안녕하세요 해달🦦과 떡볶이를 좋아하는 개발자입니다. 보고 배우면서 직접 느낀 삶의 경험들을 공유하는게 의도였지만 역시 삶은 의도대로 흘러가지 않더군요.",
     faviconUrl: "/favicon.ico",
     bannerImageUrl: "/banner.png",
     contacts,
 } as const
 
 const blog = {
-    url: "your DEPLOY URL",
-    siteName: "your site name",
-    subtitle: "your site subtitle",
+    url: "https://danpacholog.verce.app",
+    siteName: "단팥줘 끄적끄적",
+    subtitle: "프로필을 보시면 쑥쓰럽지만 오히려 좋아",
     copyright: `${
         author.name
     }© All rights reserved ${new Date().getFullYear()}.`,
@@ -42,8 +39,8 @@ const config = {
     numberOfMainPageCategory: 5,
     themeColor: "#73d1d7",
     postControllerText: {
-        first: (category: string) => `Return to ${category}`, // first post ➡️ no prev post, so replace with your text
-        last: (category: string) => `Last contents of ${category}`, // last post ➡️ no next post, so replace with your text
+        first: (category: string) => `${category}로 돌아가기`, // first post ➡️ no prev post, so replace with your text
+        last: (category: string) => `${category}의 마지막 콘텐츠`, // last post ➡️ no next post, so replace with your text
     },
     navigationMenu: [
         {

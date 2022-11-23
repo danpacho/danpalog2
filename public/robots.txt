@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR_DEPLOY_URL/sitemap.xml
+Sitemap: https://danpacholog.verce.app
