@@ -6,11 +6,11 @@ xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
 xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
-<url><loc>https://danpacholog.verce.app</loc></url>
-<url><loc>https://danpacholog.verce.app/category</loc></url>
-<url><loc>https://danpacholog.verce.app/profile</loc></url>
+<url><loc>https://danpacholog.vercel.app</loc></url>
+<url><loc>https://danpacholog.vercel.app/category</loc></url>
+<url><loc>https://danpacholog.vercel.app/profile</loc></url>
 
-<url><loc>https://danpacholog.verce.app/잡아스크립트</loc><priority>0.4</priority><changefreq>monthly</changefreq></url>
-<url><loc>https://danpacholog.verce.app/잡아스크립트/1</loc><priority>0.2</priority><changefreq>daily</changefreq></url>
-<url><loc>https://danpacholog.verce.app/잡아스크립트/1/클로져-파먹어-보기1</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2022-11-23</lastmod></url>
+<url><loc>https://danpacholog.vercel.app/잡아스크립트</loc><priority>0.4</priority><changefreq>monthly</changefreq></url>
+<url><loc>https://danpacholog.vercel.app/잡아스크립트/1</loc><priority>0.2</priority><changefreq>daily</changefreq></url>
+<url><loc>https://danpacholog.vercel.app/잡아스크립트/1/클로져-파먹어-보기1</loc><priority>0.8</priority><changefreq>daily</changefreq><lastmod>2022-11-23</lastmod></url>
 </urlset>

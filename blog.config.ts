@@ -21,15 +21,15 @@ const author = {
 } as const
 
 const blog = {
-    url: "https://danpacholog.verce.app",
+    url: "https://danpacholog.vercel.app",
     siteName: "단팥줘 끄적끄적",
     subtitle: "프로필을 보시면 쑥쓰럽지만 오히려 좋아",
     copyright: `${
         author.name
     }© All rights reserved ${new Date().getFullYear()}.`,
     language: "ko",
-    googleAnalyticsID: "DISABLED", // default to "DISABLED"
-} as const
+    googleAnalyticsID: "G-3Q1R8QPN7D", // default to "DISABLED"
+}
 
 const config = {
     blogContentsDirectoryName: "blog", // blog contents directory name

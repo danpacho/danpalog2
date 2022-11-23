@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>단팥줘 끄적끄적</title>
-    <link>https://danpacholog.verce.app</link>
+    <link>https://danpacholog.vercel.app</link>
     <description>프로필을 보시면 쑥쓰럽지만 오히려 좋아</description>
     <language>ko</language>
     <lastBuildDate>Wed, 23 Nov 2022 00:00:00 GMT</lastBuildDate>
     <webMaster>danpa725@cau.ac.kr (단팥줘 노트)</webMaster>
     <managingEditor>danpa725@cau.ac.kr (단팥줘 노트)</managingEditor>
-    <atom:link href="https://danpacholog.verce.app/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://danpacholog.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <guid>https://danpacholog.verce.app/잡아스크립트/1/클로져-파먹어-보기1</guid>
+      <guid>https://danpacholog.vercel.app/잡아스크립트/1/클로져-파먹어-보기1</guid>
       <title>클로져 파먹어⚔️ 보기 - 1</title>
-      <link>https://danpacholog.verce.app/잡아스크립트/1/클로져-파먹어-보기1</link>
+      <link>https://danpacholog.vercel.app/잡아스크립트/1/클로져-파먹어-보기1</link>
       <description>자바스크립트 영원의 숙원사업 클로져👻를 채굴해봅니다</description>
       <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
       <author>danpa725@cau.ac.kr (단팥줘)</author>
